@@ -10,9 +10,9 @@ author: Jesse B. Miller <jesse@jessebmiller.com>
 
 The purpose of an organization is to better the lives of its members. A rational
 organization betters the lives of its members while also bettering the lives of
-people who interact with it, the society it overates in.
+people who interact with it, the society it operates in.
 
 # Criminal organizations
 
 A criminal organization betters the lives of its members at the expense of the
-lives of the society it operates in.
+lives of the people who interact with it, the society it operates in.
