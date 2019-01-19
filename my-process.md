@@ -6,14 +6,14 @@ Consistently make progress*.
 
 *Progress: Changes to the world that achieve your goals.
 
-1. Understand your goals
+1. Understand your goal
    1. Write it down
    1. Introspect
-   1. Sit with it
+   1. Self awareness
    1. It could take your whole life for some, or you could know right away for others.
    1. Understanding your values helps
    1. Understanding the world helps
-1. Devise a plan to achieve them
+1. Devise a plan to achieve it
    1. Write it down
    1. Do research
 1. Carry out the plan
@@ -25,6 +25,10 @@ Consistently make progress*.
    1. Consider other goals that may have come into view
 
 # Notes and resources
+
+* You can be executing the process in parrallel
+* Heavily weight those lines of progress that are closest to being executed and achieved, but not to the exclusion of the rest of the process
+* Understand and plan when the muse is amused, or when you are not well planned, or find yourself executing without knowing the goal or why
 
 * Hammoc Driven Development
 * How to Solve It
