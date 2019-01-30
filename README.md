@@ -14,3 +14,5 @@ I'm not really a writer, but I've got things to say.
 * Don't build your own designs.
 * Deadlines can be absolute if scope is flexible, and you prioritize a working product early then iterate.
 * When the shit hits the fan you will always do what you rehearsed
+* The level of detail to which one can productively plan (brainstorming? prototyping? production engineering?) is directly coorilated to the level of detail of one's current practical knowledge of one's goal and it's achievement.
+  * One is rewarded for planning and executing at the appropriate level with the purpose of increasing the level of detail in one's practical knowledge of one's goal and it's achievement.
