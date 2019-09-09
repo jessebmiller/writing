@@ -50,6 +50,7 @@ Learn to let your favorite ideas go when they don't serve the mise-en-produit.
 ### Constraints build creativity, start with them
 
 The A3s the thing, it is the script of the product.
+OKRs
 
 ### Simulate annealing
 
