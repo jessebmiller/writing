@@ -103,6 +103,11 @@ When specialized expertise is needed, listen to the expert rather than talk abou
 Accept and build upon the direction that others in the team offer.
 No kills all momentum.
 
+## Trust librarians
+
+Look to library science for knowledge management
+Prioritize knowledge management (it helps communication)
+
 ### Learn "how to solve it"
 
 1. Understand your goal
