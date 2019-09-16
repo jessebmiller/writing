@@ -29,6 +29,8 @@ Be still long enough to see beyond the surface of things
 
 ### Trust who came before
 
+The biggest waste you have is repeatedly learning, the hard way, lessons that either you or others have already learned
+
 Stand on the shoulders of giants
 
 Don't reinvent the wheel
@@ -106,7 +108,7 @@ No kills all momentum.
 ## Trust librarians
 
 Look to library science for knowledge management
-Prioritize knowledge management (it helps communication)
+Prioritize it. It helps communication which is the bottleneck
 
 ### Learn "how to solve it"
 
