@@ -25,3 +25,12 @@ https://youtu.be/E2rk6xmf1ZI?t=175
 * Holders
 * Stops
 * Slides
+
+# In Software
+
+## Algorithms
+
+## State
+* SQL
+
+## Human Interfaces
