@@ -6,4 +6,4 @@ This is a public list of my personal reasons for participating in SpankSwarm and
 
 ## Support sex workers
 
-## Learn about decentralized organization
+## Learn how to decentralize organization
