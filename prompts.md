@@ -5,3 +5,10 @@
 * Seek self proving constructs.
   * Whitworth three plate method
   * Merkel trees
+  
+* What we shoudl save our discipline for in software development
+  * Following the process
+    * actually following red green refactor
+    * writing enough documentation
+    * not skipping the boring parts
+  * not remembering details and catching errors
