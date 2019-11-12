@@ -12,3 +12,7 @@
     * writing enough documentation
     * not skipping the boring parts
   * not remembering details and catching errors
+
+* Geometry, dividing the circle, etc. is independantly achievable but measurement is social.
+  * Measurement is also the key to interchangability which it the key to efficiency
+  * Geometry, dividing the circle, etc. are all techniques for achieving standard sized parts
