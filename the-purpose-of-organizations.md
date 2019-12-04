@@ -8,9 +8,9 @@ author: Jesse B. Miller <jesse@jessebmiller.com>
 
 # An Organizations Purpose
 
-The purpose of an organization is to better the lives of its members. A rational
-organization betters the lives of its members while also bettering the lives of
-people who interact with it, the society it operates in.
+The purpose of an organization is to make the lives of its members better. A rational
+organization does that by bettering the lives of people who interact with it, the
+society it operates in. A rational organization is customer and socially focused.
 
 # Criminal organizations
 
