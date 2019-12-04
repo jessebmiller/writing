@@ -75,8 +75,7 @@ Product projects have flexible scope but strict timelines.
 
 # Principles
 
-1. People over processes
-  a. Processes that support people
+1. People over processes (processes that support people)
 1. Communication over intellect
 1. Responsibility over authority
 1. Goals over roles
