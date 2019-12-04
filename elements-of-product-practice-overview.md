@@ -37,8 +37,8 @@ of any one member, and the members will have the satisfaction of seeing
 their ideas and agency succeed.
 
 **refferences** 
-http://www.leanessays.com/2002/02/lean-development.html
-https://www.youtube.com/watch?v=ZSdsjpCcpFw
+* http://www.leanessays.com/2002/02/lean-development.html
+* https://www.youtube.com/watch?v=ZSdsjpCcpFw
 
 In order to support the goals of focused functional expertise, cross
 functional product collaberation, and capture market opportunities fast,
