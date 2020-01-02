@@ -1,6 +1,6 @@
 # writing
 
-I'm a designer with things to say.
+I'm an incrementalist with things to say.
 
 ## Prompts
 
